@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=800&lines=%2F%2F+S%C4%B0NYAL+01+%E2%80%94+K%C4%B0ML%C4%B0K+DO%C4%9ERULANDI;LLM+M%C4%B0MAR%C4%B0S%C4%B0+%E2%96%A0+YAPAY+ZEKA+AJANLARI;FULL+STACK+DEVELOPER+%E2%96%A0+CYBER+SECURITY;S%C4%B0NYAL%3A+%25100" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=FFFFFF¢er=true&vCenter=true&width=650&lines=Yapay+Zeka+Ajanlar%C4%B1+%26+LLM+Mimarisi;Full+Stack+Web+Sistemleri+%26+Mikroservisler;2D%2F3D+Arcade+%26+Web+Oyun+Geli%C5%9Ftirme;Siber+G%C3%BCvenlik+Ara%C3%A7lar%C4%B1+%26+G%C3%BCvenli+A%C4%9F+Mimarisi" alt="Typing SVG" />
 </a>
 
 </div>
