@@ -1,7 +1,8 @@
-
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=FF3333¢er=true&vCenter=true&width=750&lines=%5B!%5D+SECURITY+NOTICE%3A+Production+repositories+are+PRIVATE" alt="Security Protocol" />
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=JetBrains+Mono&weight=700&size=16&pause=1000&color=FF3333&width=650&lines=%5B!%5D+SECURITY+NOTICE%3A+Production+repositories+are+PRIVATE" alt="Security Protocol" />
   </a>
+</p>
 
 
 <div align="center">
