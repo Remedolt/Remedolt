@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=15&pause=1000&color=FF3333¢er=true&vCenter=true&width=780&lines=%5B!%5D+SECURITY+NOTICE%3A+Production+repositories+are+PRIVATE%3B%5B!%5D+ENTERPRISE+CLEARANCE+REQUIRED+%3A%3A+Proprietary+Core+Code%3B%5B!%5D+CLIENT+%26+INTERNAL+SYSTEMS+KEPT+UNDER+CONFIDENTIALITY%3B%5B!%5D+Public+workspace+hosts+selected+sandboxes+%26+demos+only." alt="Security Protocol" />
+  </a>
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150§ion=header&text=DEN%C4%B0Z&fontSize=70&fontColor=FFFFFF&desc=%2F%2F%20YAPAY%20ZEKA%20UZMANI%20%7C%20FULL%20STACK%20DEVELOPER&descSize=16&descAlignY=78&descAlign=50" width="100%" alt="DENİZ" />
 
