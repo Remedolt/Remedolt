@@ -26,9 +26,9 @@ Conversation with Gemini
 
 ---
 
+https://www.remedolt.com.tr
 
-
-### 📡 // PROTOKOL & BİYOGRAFİ
+### 📡 // PROTOKOL & BİYOGRAFİ // 📡
 
 
 
@@ -45,18 +45,17 @@ kod_adi: Remedolt
 durum: AKTİF
 
 
-
 uzmanlik:
 
   - Bilgisayar Mühendisliği
 
   - Yapay Zeka Ajanları Yazımı
 
-  - LLM Mimarisi & Kendi Modellerimi Eğitme
+  - LLM Mimarisi & Kendi Modellerimi Eğitme (RAG & Toon)
 
   - Web Projeleri & Altyapı
 
-  - Oyun Geliştirme Projeleri
+  - Oyun Geliştirme Projeleri & AAB
 
   - Siber Güvenlik Projeleri
 
