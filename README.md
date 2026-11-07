@@ -26,7 +26,6 @@ Conversation with Gemini
 
 ---
 
-https://www.remedolt.com.tr
 
 ### 📡 // PROTOKOL & BİYOGRAFİ // 📡
 
