@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=750&lines=Autonomous+AI+Agents+%26+MCP+Architectures;LLM+Engineering%2C+RAG+(Toon)+%26+Prompt+Design;Full+Stack+Development+(Python%2C+.NET%2C+PHP%2C+React);Relational+Databases+%26+High-Performance+APIs;Server%2C+Hosting+%26+Infrastructure+Management" alt="Typing SVG" />
   </a>
 </div>
----
+-----
 
 ### 📡 // SYSTEM PROTOCOL & PROFILE // 📡
 
@@ -19,13 +19,12 @@ Bilgisayar mühendisi ve sistem mimarı. Otonom yapay zeka ajanları, Model Cont
 ```yaml
 identity:
   operator: DENİZ
-  alias: Remedolt
   status: ACTIVE_RUNNING
   role: Computer Engineer / Full Stack & AI Systems Architect
 
 architecture_and_focus:
   ai_and_autonomous_systems:
-    - LLM Integrations: Claude, OpenAI, Llama
+    - LLM Integrations: Claude, OpenAI, Llama, Mistral, GLM, Qwen
     - Protocols & Patterns: MCP (Model Context Protocol), RAG Pipelines (Toon), Prompt Engineering
     - Autonomous Development: Devin, Cursor, Antigravity, Codex, GitHub Copilot
     - AI Pipeline: CI/CD Driven Prototyping, PoC Management, Output Validation & Safety
