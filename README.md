@@ -5,7 +5,7 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=750&lines=Autonomous+AI+Agents+%26+Multi-Agent+Workflows;LLM+Fine-Tuning+%26+Quantization+(QLoRA%2C+LoRA);Robust+Backend+Systems+%26+Low-Latency+APIs;Game+Dev+Prototypes+%26+Applied+Cybersecurity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=750&lines=Autonomous+AI+Agents+%26+MCP+Architectures;LLM+Engineering%2C+RAG+(Toon)+%26+Prompt+Design;Full+Stack+Development+(Python%2C+.NET%2C+PHP%2C+React);Relational+Databases+%26+High-Performance+APIs;Server%2C+Hosting+%26+Infrastructure+Management" alt="Typing SVG" />
   </a>
 
 </div>
@@ -14,24 +14,27 @@
 
 ### 📡 // SYSTEM PROTOCOL & PROFILE // 📡
 
-Bilgisayar mühendisi ve sistem mimarı. Otonom yapay zeka ajanları (multi-agent workflows), açık kaynaklı LLM'lerin ince ayarı (fine-tuning/quantization) ve düşük gecikmeli, ölçeklenebilir backend sistemleri üzerine odaklanıyorum. Aynı zamanda oyun prototipleme ve siber güvenlik araştırmaları yürütüyorum.
+Bilgisayar mühendisi ve sistem mimarı. Otonom yapay zeka ajanları, Model Context Protocol (MCP) mimarileri, RAG pipeline'ları ve kurumsal düzeyde backend/frontend çözümleri üretiyorum. Veritabanı optimizasyonundan sunucu altyapı yönetimine, cross-platform mobil uygulamalardan AI tabanlı hızlı PoC prototiplemeye kadar geniş bir yelpazede uçtan uca sistemler geliştiriyorum.
 
 ```yaml
 identity:
   operator: DENİZ
   alias: Remedolt
   status: ACTIVE_RUNNING
-  role: Computer Engineer / AI Systems Architect
+  role: Computer Engineer / Full Stack & AI Systems Architect
 
-core_focus:
-  ai_ml:
-    - Autonomous Multi-Agent Architectures
-    - LLM Fine-Tuning & Quantization (QLoRA, LoRA, GGUF)
-    - Production RAG Pipelines & Semantic Vector Search
-  backend_infrastructure:
-    - High-Performance REST & Socket APIs
-    - Microservices & Modular Software Systems
-    - Desktop Utilities & Compiled Systems (C#, Python, PHP)
-  security_research:
-    - Network Protocol Auditing & Hardening
-    - Reverse Engineering & Binary Packaging
+architecture_and_focus:
+  ai_and_autonomous_systems:
+    - LLM Integrations: Claude, OpenAI, Llama
+    - Protocols & Patterns: MCP (Model Context Protocol), RAG Pipelines (Toon), Prompt Engineering
+    - Autonomous Development: Devin, Cursor, Antigravity, Codex, GitHub Copilot
+    - AI Pipeline: CI/CD Driven Prototyping, PoC Management, Output Validation & Safety
+  software_engineering:
+    - Backend: Python, C# / .NET Core, Modern PHP (8.x, OOP), Laravel
+    - Networking & Distributed: REST APIs, Microservices, TCP/IP & Socket Programming
+    - Frontend & Mobile: React, React Native, TypeScript, JavaScript (ES6+), Tailwind CSS, Bootstrap
+    - CMS & Commerce: WordPress Custom Theme & Plugin Architecture, E-Commerce Systems
+  data_and_infrastructure:
+    - DBMS: PostgreSQL, MS SQL Server, MySQL
+    - DB Engineering: Schema & Data Modeling, Indexing, Query Optimization, Backup/Disaster Recovery
+    - Systems & Hosting: Plesk (Reseller), cPanel / WHM, DirectAdmin, CWP
